@@ -1,19 +1,17 @@
-# elizabethagboolaogbulu
-
-# Hi there👋🏽
+### Hi there! <img src='https://emojis.slackmojis.com/emojis/images/1643515243/12618/party_blob.gif' width="25"/>
 
  I'm Elizabeth, a digital marketer and graphic designer currently exploring **product design **
 
 ### Toolkit
 
 **Design & Creative**
-'Canva' 'Adobe Photoshop' 'Adobe Illustrator' 'Figma'
+`Canva`, `Adobe Photoshop`, `Adobe Illustrator`, `Figma`
 
 **Digital Marketing**
-'Social Media Management' 'Content Creation' 'Digital Marketing' 'Branding & Visual Identity' 'Social Media Analytics'
+`Social Media Management`, `Content Creation`, `Digital Marketing`, `Branding & Visual Identity`, `Social Media Analytics`
 
 **Currently Learning**
-'Product Design' 'UI/UX Design'
+`Product Design`, `UI/UX Design`
 
 ### Fun Facts About Me
 
