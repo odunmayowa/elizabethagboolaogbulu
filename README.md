@@ -1,6 +1,6 @@
 # elizabethagboolaogbulu
 
-# Hi, I'm Elizabeth 👋🏽
+Hi, I'm Elizabeth 👋🏽
 
 Digital marketer and graphic designer currently exploring **product design.**
 
